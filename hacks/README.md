@@ -1,5 +1,7 @@
 # Hacks
 
+## Table of Contents
+
 - Hacks
 	- [BB Cake](bbCake/)
 	- [Ginger Bread House](GingerbreadHouse/)

@@ -1,5 +1,7 @@
 # Estefannie Explains It All
 
+## Table of Contents
+
 - [Hacks](hacks/)
    - [BB Cake](hacks/bbCake/)
    - [Ginger Bread House](hacks/GingerbreadHouse/)
@@ -17,7 +19,7 @@
    - [Linked Lists](tutorials/linkedLists/)
    - [Merge Sort](tutorials/mergeSort/)
 
-# Lincense
+## License
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
 

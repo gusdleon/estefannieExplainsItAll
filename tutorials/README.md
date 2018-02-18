@@ -1,5 +1,7 @@
 # Tutorials
 
+## Table of Contents
+
 - Tutorials
 	- [Big O Notation](bigOnotation/)
 		- [Part 2](bigOnotation/part2)
