@@ -11,7 +11,7 @@
    - [Smart Cookie Alarm](hacks/SmartCookieAlarm/)
    - [Stranger Things](hacks/StrangerThings/)
 - [Tutorials](tutorials/)
-   - [Big O Notation](hacks/bigOnotation/)
+   - [Big O Notation](tutorials/bigOnotation/)
       - [Part 2](tutorials/bigOnotation/part2)
       - [Part 3](tutorials/bigOnotation/part3)
    - [Linked Lists](tutorials/linkedLists/)
