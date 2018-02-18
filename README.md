@@ -19,6 +19,12 @@
    - [Linked Lists](tutorials/linkedLists/)
    - [Merge Sort](tutorials/mergeSort/)
 
+## To-Do
+
+- Contribution Guidelines
+- FAQ
+- Social/Resources
+
 ## License
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
