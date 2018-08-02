@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Hacks](makes/)
+- [Makes](makes/)
    - [BB Cake](makes/bbCake/)
    - [Daft Punk Helmet](makes/DaftPunkHelmet)
    - [Ginger Bread House](makes/GingerbreadHouse/)
