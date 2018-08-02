@@ -1,3 +1,15 @@
+/* DAFT PUNK HELMET
+ *  
+ * Have fun =)
+ *
+ * This file is part of the Estefannie Explains It All repo.
+ *
+ * (c) Estefannie Explains It All <estefannieexplainsitall@gmail.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
 #include <FastLED.h>
 
 #define DATA_LEFTEAR_PIN 1
